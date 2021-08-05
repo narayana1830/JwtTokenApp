@@ -5,7 +5,7 @@
  * @author DELL
  *
  */
-module TokenApp {
+module JwtTokenAuthApp {
 	exports com.java11practice.apps.config;
 	requires java.base;
 	requires java.validation;
